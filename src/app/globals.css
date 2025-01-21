@@ -334,6 +334,10 @@ html{
 	font-weight: 900;
 }
 
+.verticalLine{
+	height: 3200px !important;
+}
+
 @media (max-width: 768px) {	
 	.arrow{		
 		left: 50px;
@@ -347,9 +351,7 @@ html{
 	.link{
 		width: 25%;
 	}
-	.verticalLine{
-		height: 7000px;
-	}
+
 
 	.title{
 		font-size: 25px;
@@ -360,9 +362,7 @@ html{
 	.project-name{
 		right: -29px;
 	}
-	.verticalLine{
-		height: 7000px;
-	}
+
 }
 
 
