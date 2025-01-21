@@ -401,6 +401,8 @@ html{
 	border-right: 1px solid;	
 	animation: caret 1s steps(1) infinite;
   }
+
+  
   
   @keyframes caret {
 	50% {

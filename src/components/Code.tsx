@@ -15,7 +15,7 @@ function Code() {
 01 class Taher_Chahine {
 02   constructor() {
 03     this.name = 'Chahin Taher';
-04     this.age = 25;
+04     this.age = '25';
 05     this.email = 'chahintaherr@gmail.com';
 06     this.phone = '+216 58 018 596';
 07   }
