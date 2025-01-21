@@ -28,9 +28,12 @@ function Code() {
 14 
 15   education() {
 16     return [
-17       { '2022-Present':'National School of Electronics and Telecommunication-Network and Cloud Infrastructure' },
-18       { '2020-2022': 'Horizon Institute of Training - Higher Technician in IT Management, Tunisia, Gabès' },
-19       { '2020-2022': 'Institute of Applied Sciences and Technology - Physics and Chemistry, Tunisia, Gabès' }
+17       { '2022-Present':'National School of Electronics and Telecommunication-Network'
+             'and Cloud Infrastructure' },
+18       { '2020-2022': 'Horizon Institute of Training - Higher Technician in IT Management',
+             'Tunisia, Gabès' },
+19       { '2020-2022': 'Institute of Applied Sciences and Technology - Physics and Chemistry',
+             'Tunisia, Gabès' }
 20     ];
 21   }
 22 
